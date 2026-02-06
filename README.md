@@ -30,3 +30,39 @@ Berikut adalah daftar anggota kelompok yang berkontribusi dalam pembuatan proyek
 | 1 | **Nayla Nur Faridah** | 2307026 |
 | 2 | **Dinda Aulia Putri** | 2307009 |
 | 3 | **Ardi Nur Harom** | 2307025 |
+
+## Galeri Aplikasi
+
+Berikut adalah tangkapan layar dari tampilan aplikasi kami:
+
+### 1. Landing Page
+![Landing Page](screenshots/landingpage.png)
+
+### 2. Dashboard User
+![Dashboard User](screenshots/dashboard.png)
+
+### 3. Halaman Login
+![Login](screenshots/login.png)
+
+### 4. Halaman Register
+![Register](screenshots/register.png)
+
+### 5. Halaman Profile
+![Profile](screenshots/profile.png)
+
+### 6. Halaman Favorit
+![Favorit](screenshots/favorite.png)
+
+### 7. Fitur CRUD
+**Tampilan Form Tambah Resep**
+![Tambah Resep](screenshots/tambahresep.png)
+
+**Tampilan Detail Resep**
+![Detail Resep](screenshots/detailresep.png)
+
+**Tampilan Edit Resep**
+![Edit Resep](screenshots/editresep.png)
+
+**Tampilan Katalog**
+![Katalog](screenshots/katalog.png)
+
