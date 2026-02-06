@@ -31,6 +31,9 @@ Berikut adalah daftar anggota kelompok yang berkontribusi dalam pembuatan proyek
 | 2 | **Dinda Aulia Putri** | 2307009 |
 | 3 | **Ardi Nur Harom** | 2307025 |
 
+## Database MySQL
+https://drive.google.com/drive/folders/1KFow2_SSG1sx2gMxYPwf-7wdESfiDVOT
+
 ## Galeri Aplikasi
 
 Berikut adalah tangkapan layar dari tampilan aplikasi kami:
